@@ -1,8 +1,4 @@
-# Around react app
-
 ## Version this bundle 1.0.0
-
-### https://gigzi-wallet.firebaseapp.com/#/
 
 ## For start work need use: npm i
 
@@ -27,7 +23,6 @@ For static images need too import how above (this is the best way);
 -React-Route
 -Sass (CSS Modules)
 -npm and yarn
--GSUP (may be in future)
 
 ## Detail
 
