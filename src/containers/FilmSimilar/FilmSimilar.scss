@@ -1,0 +1,15 @@
+.FilmSimilar {
+    display: block;
+    padding: 0 24px;
+}
+
+.similarItem {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 30px;
+
+    h3 {
+        padding-top: 13px;
+        color: rgba(255, 255, 255, 0.89);
+    }
+}
